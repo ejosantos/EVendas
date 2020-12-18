@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/EVenda
+/Avaliacao.Estoque/obj
+/Avaliacao.Estoque/bin/Debug/netcoreapp3.1
+/Avaliacao.EVenda.Repositorio/bin/Debug/netcoreapp3.1
+/Avaliacao.EVenda.Repositorio/obj
+/Avaliacao.Venda/bin/Debug/netcoreapp3.1
+/Avaliacao.Venda/obj
+/Avaliacao.Venda.Dominio/bin/Debug/netcoreapp3.1
+/Avaliacao.Venda.Dominio/obj
